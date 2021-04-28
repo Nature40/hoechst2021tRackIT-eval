@@ -1,2 +1,4 @@
 rteu/* filter=lfs diff=lfs merge=lfs -text
 tRackIT/* filter=lfs diff=lfs merge=lfs -text
+rteu/raw/* filter=lfs diff=lfs merge=lfs -text
+tRackIT/raw/* filter=lfs diff=lfs merge=lfs -text
